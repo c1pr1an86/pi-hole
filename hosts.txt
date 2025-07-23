@@ -8,7 +8,11 @@ googleads.g.doubleclick.net
 mcc-intl.inf.miui.com
 metrics.dt.hihonorcloud.com
 pubads.g.doubleclick.net
+s.amazon-adsystem.com
 sdkconfig.ad.intl.xiaomi.com
 sdkconfig.eu.xiaomi.com
-	uqgz7r-inapps.appsflyersdk.com
+tpc.googlesyndication.com
+uqgz7r-inapps.appsflyersdk.com
+www.googletagmanager.com
+
 
