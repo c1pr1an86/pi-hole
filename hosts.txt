@@ -1,1 +1,10 @@
+appvault-a.api.intl.miui.com
+api.brs.intl.miui.com
+connect.rom.miui.com
 doubleclick.net
+googleads.g.doubleclick.net
+mcc-intl.inf.miui.com
+pubads.g.doubleclick.net
+sdkconfig.ad.intl.xiaomi.com
+
+
