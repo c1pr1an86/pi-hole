@@ -1,1 +1,1 @@
-This is a first project.
+This is my personal hosts file for pi-hole.
