@@ -8,6 +8,7 @@ fr.app.chat.global.xiaomi.net
 googleads.g.doubleclick.net
 mcc-intl.inf.miui.com
 metrics.dt.hihonorcloud.com
+mobile.events.data.microsoft.com
 pagead2.googlesyndication.com
 pubads.g.doubleclick.net
 s.amazon-adsystem.com
