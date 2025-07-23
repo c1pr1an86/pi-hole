@@ -1,5 +1,6 @@
 activity.windows.com
 appvault-a.api.intl.miui.com
+api.ad.intl.xiaomi.com
 api.brs.intl.miui.com
 connect.rom.miui.com
 cm.g.doubleclick.net
