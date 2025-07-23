@@ -30,6 +30,7 @@ rec-honor-usa.eeyeful.com
 s.amazon-adsystem.com
 sdkconfig.ad.intl.xiaomi.com
 sdkconfig.eu.xiaomi.com
+secure.adnxs.com
 static.cdn.adtarget.biz
 telemetry.deja.media
 tpc.googlesyndication.com
