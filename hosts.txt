@@ -1,3 +1,4 @@
+activity.windows.com
 appvault-a.api.intl.miui.com
 api.brs.intl.miui.com
 connect.rom.miui.com
