@@ -1,12 +1,14 @@
 appvault-a.api.intl.miui.com
 api.brs.intl.miui.com
 connect.rom.miui.com
+cm.g.doubleclick.net
 doubleclick.net
 find.api.micloud.xiaomi.net
 fr.app.chat.global.xiaomi.net
 googleads.g.doubleclick.net
 mcc-intl.inf.miui.com
 metrics.dt.hihonorcloud.com
+pagead2.googlesyndication.com
 pubads.g.doubleclick.net
 s.amazon-adsystem.com
 sdkconfig.ad.intl.xiaomi.com
