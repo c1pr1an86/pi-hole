@@ -3,9 +3,12 @@ api.brs.intl.miui.com
 connect.rom.miui.com
 doubleclick.net
 find.api.micloud.xiaomi.net
+fr.app.chat.global.xiaomi.net
 googleads.g.doubleclick.net
 mcc-intl.inf.miui.com
+metrics.dt.hihonorcloud.com
 pubads.g.doubleclick.net
 sdkconfig.ad.intl.xiaomi.com
-
+sdkconfig.eu.xiaomi.com
+	uqgz7r-inapps.appsflyersdk.com
 
