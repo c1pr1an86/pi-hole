@@ -19,6 +19,7 @@ fr.app.chat.global.xiaomi.net
 fr.resolver.msg.global.xiaomi.net
 gw-honor.eeyeful.com
 googleads.g.doubleclick.net
+k.clarity.ms
 mcc-intl.inf.miui.com
 metrics.dt.hihonorcloud.com
 mobile.events.data.microsoft.com
