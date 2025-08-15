@@ -6,6 +6,7 @@ ads.creative-serving.com
 ads.betweendigital.com
 adx.adform.net
 ad.turn.com
+ads.caroda.io
 appvault-a.api.intl.miui.com
 api-analytics-de.zepp.com
 api.ad.intl.xiaomi.com
@@ -17,6 +18,7 @@ connect.rom.miui.com
 cm.g.doubleclick.net
 cm.adskeeper.com
 config.aps.amazon-adsystem.com
+dsp-service.adtarget.biz
 doubleclick.net
 ep1.adtrafficquality.google
 ep2.adtrafficquality.google
